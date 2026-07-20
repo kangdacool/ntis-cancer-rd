@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "ntis-cancer-rd: analysis code for cancer research and development in South Korea, 2006-2024"
+message: "If you use this software, please cite the article below."
+type: software
+license: MIT
+repository-code: "https://github.com/kangdacool/ntis-cancer-rd"
+version: "1.0.0"
+authors:
+  - family-names: Seo
+    given-names: Kang
+    orcid: "https://orcid.org/0009-0009-6082-2368"
+    affiliation: "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea"
+  - family-names: Lee
+    given-names: So-Yoon
+    orcid: "https://orcid.org/0009-0004-3325-5592"
+    affiliation: "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea"
+  - family-names: Yu
+    given-names: Soohyun
+    orcid: "https://orcid.org/0009-0003-3888-8965"
+    affiliation: "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea"
+  - family-names: Kim
+    given-names: Taehoon
+    orcid: "https://orcid.org/0009-0008-3927-3774"
+    affiliation: "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea"
+  - family-names: Han
+    given-names: Kyu-Tae
+    orcid: "https://orcid.org/0000-0002-5817-1203"
+    affiliation: "National Cancer Control Institute, National Cancer Center, Goyang, Republic of Korea"
+  - family-names: Choi
+    given-names: Kui Son
+    orcid: "https://orcid.org/0000-0001-5336-3874"
+    affiliation: "National Cancer Control Institute, National Cancer Center, Goyang, Republic of Korea"
+  - family-names: Shin
+    given-names: Aesun
+    orcid: "https://orcid.org/0000-0002-6426-1969"
+    affiliation: "Department of Preventive Medicine, Seoul National University College of Medicine, Seoul, Republic of Korea"
+preferred-citation:
+  type: article
+  title: "Cancer Research and Development in South Korea, 2006-2024: A Text-Mining Analysis of National Science & Technology Information Service (NTIS) Records"
+  journal: "Cancer Research and Treatment"
+  year: 2026
+  authors:
+    - family-names: Seo
+      given-names: Kang
+    - family-names: Lee
+      given-names: So-Yoon
+    - family-names: Yu
+      given-names: Soohyun
+    - family-names: Kim
+      given-names: Taehoon
+    - family-names: Han
+      given-names: Kyu-Tae
+    - family-names: Choi
+      given-names: Kui Son
+    - family-names: Shin
+      given-names: Aesun
