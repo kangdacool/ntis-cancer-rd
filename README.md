@@ -112,5 +112,6 @@ Statistics Korea.
 
 ## License and citation
 
-Released under the [MIT License](LICENSE). If you use this code, please cite the
-article; see [CITATION.cff](CITATION.cff).
+Released under the [MIT License](LICENSE). Archived at Zenodo:
+[10.5281/zenodo.21451721](https://doi.org/10.5281/zenodo.21451721). If you use
+this code, please cite the article; see [CITATION.cff](CITATION.cff).

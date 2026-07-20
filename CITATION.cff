@@ -4,6 +4,7 @@ message: "If you use this software, please cite the article below."
 type: software
 license: MIT
 repository-code: "https://github.com/kangdacool/ntis-cancer-rd"
+doi: "10.5281/zenodo.21451721"
 version: "1.0.0"
 authors:
   - family-names: Seo
