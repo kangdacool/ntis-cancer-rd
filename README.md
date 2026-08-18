@@ -88,10 +88,11 @@ output/       tables and figures
 A census pulled today will not be identical to ours. NTIS is a live registry and
 adds records retroactively for years already past, so a fresh pull will contain
 more 2023 and 2024 projects than the 2026-07-13 pull analysed here; counts for
-2006 to 2022 should agree closely. This registration lag is one of the paper's
-findings, and it is large in the most recent years: a snapshot taken six months
-earlier held 23.2% fewer 2023 projects and 40.9% fewer 2024 projects than the
-census used here.
+2006 to 2022 should agree closely. The lag is large in the most recent years: in
+our own check, a snapshot taken six months earlier held 23.2% fewer 2023 projects
+and 40.9% fewer 2024 projects than the census used here. That comparison is a note
+on data currency for anyone reproducing this work, not a result reported in the
+paper, which treats 2024 as provisional.
 
 Our API key is bound to the registering institution's IP range and cannot be
 shared, so you will need your own.
